@@ -10,6 +10,7 @@ crate_type = ["cdylib"]
 
 [dependencies]
 jni = "0.17"
+rinimp3 = { git = "https://github.com/Gelbpunkt/rinimp3" }
 
 [profile.dev]
 panic = "abort"
