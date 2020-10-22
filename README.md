@@ -8,12 +8,12 @@ The project has all function signatures ported over and lacks implementations.
 
 ## Decoders
 
-| Codec     | Rust library to use | Implemented? |
-| --------- | ------------------- | ------------ |
-| AAC       | undecided           | No           |
-| MP3       | undecided           | No           |
-| Vorbis    | undecided           | No           |
-| Opus      | undecided           | No           |
+| Codec     | Rust library to use | Implemented?   |
+| --------- | ------------------- | -------------- |
+| AAC       | undecided           | No             |
+| MP3       | rinimp3             | Yes (untested) |
+| Vorbis    | undecided           | No             |
+| Opus      | undecided           | No             |
 
 ## Encoders
 
