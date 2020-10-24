@@ -10,6 +10,7 @@ crate_type = ["cdylib"]
 
 [dependencies]
 jni = "0.17"
+opus-sys = "0.2" # BAD DEPENDENCY, until there is a pure rust opus encoder
 rinimp3 = { git = "https://github.com/Gelbpunkt/rinimp3" }
 
 [profile.dev]

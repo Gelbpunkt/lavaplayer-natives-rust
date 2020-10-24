@@ -17,9 +17,9 @@ The project has all function signatures ported over and lacks implementations.
 
 ## Encoders
 
-| Codec     | Rust library to use | Implemented? |
-| --------- | ------------------- | ------------ |
-| Opus      | undecided           | No           |
+| Codec     | Rust library to use | Implemented?                                                             |
+| --------- | ------------------- | ------------------------------------------------------------------------ |
+| Opus      | undecided           | Yes, for testing using opus-sys (untested and needs pure rust in future) |
 
 ## Misc
 
